@@ -1,0 +1,32 @@
+h5{
+    background-color: rgb(211, 195, 226);
+    font-weight: 600;
+    font-style: normal;
+    margin-top: 2px;
+    font-size: 20px;
+
+}
+#frst{
+    margin-top:5%;
+    background-color:rgb(235, 232, 238);
+    margin-bottom: 5%;
+    line-height: 150%;
+    font-style: unset;
+    margin-left: 2%;
+}
+#sec{
+    margin-top:5%;
+    font-style: unset;
+    line-height: 150%;
+   
+    background-color: rgb(255, 255, 255);
+}
+
+h1{
+    margin-bottom: 3%;
+    margin-top:3%;
+}
+#pic{
+    margin-left: 13%;
+    margin-right: 2%;
+}
